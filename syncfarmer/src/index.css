@@ -1,0 +1,29 @@
+.inputs{
+    padding-inline: 1rem;
+    padding-block: .6rem;
+    outline:none;
+    border: none;
+}
+.inputs:focus{
+    outline: none;
+}
+
+.PhoneInputInput{
+    padding-inline: 1rem;
+    padding-block: .6rem;
+    outline:none;
+    border: none;
+    margin-block:.5rem;
+}
+.PhoneInputCountryIconImg{
+    height: 60px;
+    object-fit: contain;
+    margin-top:1rem;
+
+}
+.PhoneInputCountrySelect{
+    padding-inline: 1rem;
+    padding-block: .6rem;
+    outline:none;
+    border: none;
+} 
